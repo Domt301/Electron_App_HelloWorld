@@ -1,0 +1,25 @@
+{
+  "name": "electronapp",
+  "version": "1.0.0",
+  "description": "electron hello world app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domt301/Electron_App_HelloWorld.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "dom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Domt301/Electron_App_HelloWorld/issues"
+  },
+  "homepage": "https://github.com/Domt301/Electron_App_HelloWorld#readme",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
